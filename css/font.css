@@ -1,0 +1,17 @@
+@font-face {
+    font-family: iconfont;
+    src: url(../fonts/A3.eot);
+    src: url(../fonts/A4.otf) format("embedded-opentype"), url(../fonts/A2.woff) format("woff"), url(../fonts/A5.ttf) format("truetype"), url(../fonts/A6.svg) format("svg")
+}
+
+@font-face {
+    font-family: iconfont;
+    src: url(../fonts/B4.eot);
+    src: url(../fonts/B5.otf) format("embedded-opentype"), url(../fonts/B2.woff) format("woff"), url(../fonts/B3.ttf) format("truetype"), url(../fonts/B6.svg) format("svg")
+}
+.iconfont{
+    font-family: iconfont, sans-serif;
+    font-style: normal;
+    -webkit-text-stroke-width: .2px;
+    -moz-osx-font-smoothing: grayscale
+}
